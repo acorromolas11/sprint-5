@@ -1,4 +1,4 @@
-from moduls.Classic import *
+from moduls.tipos.Classic import *
 
 cl2 = Classic("Nombre", "Apellido", True)
 
@@ -9,3 +9,4 @@ if():
     cl2.agregarCaja()
     5/0
 else:
+    pass
